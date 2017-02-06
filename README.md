@@ -1,2 +1,2 @@
 # soundcloud-for-chrome
-Soundcloud player Chrome extension
+SoundCloud player for Google Chrome
